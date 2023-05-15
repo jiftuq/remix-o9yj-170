@@ -94,7 +94,7 @@ export default function Index() {
 						>
 							Github
 						</a>{' '}
-						to learn more about WunderGraph.
+						to learn more about WunderGraph
 					</p>
 				</footer>
 			</div>
